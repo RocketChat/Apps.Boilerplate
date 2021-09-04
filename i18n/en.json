@@ -1,0 +1,6 @@
+{
+    "Params": "modal, help",
+    "Description": "Does something with Boilerplate App. Type `/boilerplate help` for more info.",
+    "Setting_Name": "Setting Name",
+    "Setting_Description": "Setting description"
+}
